@@ -4,7 +4,7 @@ import { Navigate, Route, Routes, useLocation, useNavigate } from 'react-router-
 import Layout from './components/Layout.jsx';
 import Login from './components/Login.jsx';
 import Signup from './components/Signup.jsx';
-import Dashboard from './pages/dashboard.jsx';
+import Dashboard from './pages/Dashboard.jsx';
 import Income from './pages/Income.jsx';
 import Profile from './pages/Profile.jsx';
 import Expense from './pages/Expense.jsx';
