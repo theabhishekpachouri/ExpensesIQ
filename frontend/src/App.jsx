@@ -10,7 +10,7 @@ import Profile from './pages/Profile.jsx';
 import Expense from './pages/Expense.jsx';
 
 
-const API_URL = "https://expensesiq.onrender.com";
+const API_URL = "https://expensesiq.onrender.com/";
 
     // to scroll to top when page gets reload or new page is visited
 
