@@ -110,7 +110,7 @@ const Login = ({onLogin,API_URL = 'https://expensesiq.onrender.com'}) => {
             </div>
                 <h1 className={loginStyles.headerTitle}>Welcome Back</h1>
                 <p className={loginStyles.headerSubtitle}>
-                    Sign in to your ExpenseTracker 
+                    Sign in to your ExpensesIQ 
                 </p>
             </div>
             <div className={loginStyles.formContainer}>

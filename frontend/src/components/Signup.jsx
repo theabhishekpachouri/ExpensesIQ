@@ -132,7 +132,7 @@ const Signup = ({API_URL = 'https://expensesiq.onrender.com',onSignup}) => {
                 </div>
                 <h1 className={signupStyles.headerTitle}>Create Account</h1>
                 <p className={signupStyles.headerSubtitle}>
-                    Join Expenese Tracker to manange your finances
+                    Join ExpenesesIQ to manange your finances
                 </p>   
             </div>
             <div className={signupStyles.formContainer}>
